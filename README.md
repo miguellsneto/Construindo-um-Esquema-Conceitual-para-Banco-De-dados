@@ -1,5 +1,5 @@
 # **DESAFIO DE PROJETO**
-# **Construindo um Esquema Conceitual para Banco De dados**
+# **Construindo um Esquema Conceitual para Banco de Dados**
 
 ## Esquema Conceitual para Oficina de Veículos
 
